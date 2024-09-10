@@ -102,13 +102,30 @@ footer{
     height: 200px;
 }
 
-.noticiasbg h2{
+.noticiasbg h2, .actividadesbg h2, .contactabg h2, .laasociacionbg h2 {
     
     color: white;
     font-weight: 800;
     font-size: 3rem;
     text-shadow: 2px 2px 5px rgb(45, 45, 45);
 }
+
+.actividadesbg {
+    background-image: url(image/seville-556034_1920.jpg);
+    height: 200px;
+}
+
+.contactabg {
+    background-image: url(image/plains-666927_1920.jpg);
+    height: 200px;
+}
+
+.laasociacionbg {
+    background-image: url(image/berries-1546125_1920.jpg);
+    height: 200px;
+}
+
+
 
 /*migadepan*/
 
